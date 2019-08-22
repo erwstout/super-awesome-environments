@@ -1,0 +1,35 @@
+{
+	"workbench.colorTheme": "Material Theme Ocean High Contrast",
+	"editor.fontSize": 15,
+	"window.openFilesInNewWindow": "default",
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.autoClosingQuotes": "always",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"editor.formatOnSave": true,
+	"editor.rulers": [80],
+	"editor.tabSize": 2,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"files.exclude": {
+		".DS_Store": true
+	},
+	"gitlens.advanced.messages": {
+		"suppressCommitNotFoundWarning": true,
+		"suppressShowKeyBindingsNotice": true,
+		"suppressWelcomeNotice": true
+	},
+	"gitlens.keymap": "alternate",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"gitlens.views.fileHistory.enabled": true,
+	"gitlens.views.lineHistory.enabled": true,
+	"window.zoomLevel": 0,
+	"workbench.editor.enablePreview": false,
+	"workbench.editor.enablePreviewFromQuickOpen": false
+}
+
