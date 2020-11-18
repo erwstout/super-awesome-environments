@@ -11,7 +11,7 @@ module.exports = {
     // default font size in pixels for all tabs
     fontSize: 14,
 
-    fontFamily: `"Fira Code", "Cascadia Code", "IBM Plex Mono", "Lucida Console", monospace`,
+    fontFamily: `"Fira Code"`,
 
     // default font weight: 'normal' or 'bold'
     fontWeight: "400",
@@ -23,7 +23,7 @@ module.exports = {
     lineHeight: 1,
 
     // letter spacing as a relative unit
-    letterSpacing: 0,
+    letterSpacing: 0.5,
 
     // terminal cursor background color and opacity (hex, rgb, hsl, hsv, hwb or cmyk)
     cursorColor: "#3ADA22",
@@ -42,7 +42,7 @@ module.exports = {
 
     // terminal background color
     // opacity is only supported on macOS
-    backgroundColor: "#000",
+    backgroundColor: "#241b2f",
 
     // terminal selection color
     selectionColor: "rgba(248,28,229,0.3)",
@@ -102,7 +102,7 @@ module.exports = {
     //
     // PowerShell on Windows
     // - Example: `C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe`
-    shell: "/bin/zsh",
+    shell: "C:\\Windows\\System32\\bash.exe",
 
     // for setting shell arguments (i.e. for using interactive shellArgs: `['-i']`)
     // by default `['--login']` will be used
